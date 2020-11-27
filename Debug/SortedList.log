@@ -1,0 +1,4 @@
+﻿  functions.cpp
+d:\univer\алгоритмы и структура данных\sortedlist\sortedlist\functions.cpp(28): warning C4101: cur: неиспользованная локальная переменная
+d:\univer\алгоритмы и структура данных\sortedlist\sortedlist\functions.cpp(28): warning C4101: prev: неиспользованная локальная переменная
+  SortedList.vcxproj -> D:\Univer\Алгоритмы и структура данных\SortedList\Debug\SortedList.exe
